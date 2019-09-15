@@ -1,0 +1,21 @@
+{
+  "short_name": "ARRP",
+  "name": "ARRP",
+  "icons": [
+    {
+      "src": "/arrpfavicon.ico",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/arrpfavicon.ico",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
